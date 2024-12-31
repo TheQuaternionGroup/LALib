@@ -2,8 +2,8 @@
 ## Authors: Julio De Jesus, Ulizes Raudales
 
 ### Core Features
-    #### Matrix Operations
-    - [] Addition
+#### Matrix Operations
+- [] Addition
     - [] Subtraction
     - [] Multiplication
     - [] Division
