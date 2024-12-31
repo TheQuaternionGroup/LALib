@@ -2,6 +2,7 @@
 ## Authors: Julio De Jesus, Ulizes Raudales
 
 ### Core Features
+<<<<<<< HEAD
 
 #### Matrix Operations
 - [ ] Addition
@@ -28,6 +29,31 @@
 - [ ] Row Space
 - [ ] Orthogonalization
 - [ ] Conjugate
+=======
+#### Matrix Operations
+    - [ ] Addition
+    - [ ] Subtraction
+    - [ ] Multiplication
+    - [] Division
+    - [] Determinant
+    #### Vector Operations 
+    - [] Addition
+    - [] Subtraction
+    - [] Multiplication
+    - [] Division
+    - [] Dot Product
+    - [] Cross Product
+    #### Matrix Transformations
+    - [] Transpose
+    - [] Inverse
+    - [] Adjoint
+    - [] Rank
+    - [] Null Space / Kernel
+    - [] Column Space
+    - [] Row Space
+    - [] Orthogonalization
+    - [] Conjugate
+>>>>>>> b7a35e633f8a593c0582b68ec100638652b2d24a
 
 ### Algorithms
 - [ ] Gauss-Jordan Elimination
