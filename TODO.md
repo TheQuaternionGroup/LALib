@@ -3,7 +3,7 @@
 
 ### Core Features
 #### Matrix Operations
-- [ ] Addition
+    - [ ] Addition
     - [ ] Subtraction
     - [ ] Multiplication
     - [] Division
