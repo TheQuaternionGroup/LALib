@@ -3,9 +3,9 @@
 
 ### Core Features
 #### Matrix Operations
-- [] Addition
-    - [] Subtraction
-    - [] Multiplication
+- [ ] Addition
+    - [ ] Subtraction
+    - [ ] Multiplication
     - [] Division
     - [] Determinant
     #### Vector Operations 
