@@ -2,7 +2,6 @@
 ## Authors: Julio De Jesus, Ulizes Raudales
 
 ### Core Features
-<<<<<<< HEAD
 
 #### Matrix Operations
 - [ ] Addition
