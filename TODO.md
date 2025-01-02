@@ -4,23 +4,23 @@
 ### Core Features
 
 #### Matrix Operations
-- [ x ] Addition
-- [ x ] Subtraction
-- [ x ] Multiplication
-- [ x ] Division
-- [ x ] Determinant
+- [x] Addition
+- [x] Subtraction
+- [x] Multiplication
+- [x] Division
+- [x] Determinant
 
 #### Vector Operations
-- [ x ] Addition
-- [ x ] Subtraction
-- [ x ] Multiplication
-- [ x ] Division
-- [ x ] Dot Product
-- [ x ] Cross Product
+- [x] Addition
+- [x] Subtraction
+- [x] Multiplication
+- [x] Division
+- [x] Dot Product
+- [x] Cross Product
 
 #### Matrix Transformations
-- [ x ] Transpose
-- [ x ] Inverse
+- [x] Transpose
+- [x] Inverse
 - [ ] Adjoint
 - [ ] Rank
 - [ ] Null Space / Kernel
