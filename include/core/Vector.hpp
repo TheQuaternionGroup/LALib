@@ -1,4 +1,5 @@
-#pragma once
+#ifndef LAL_VECTOR_HPP
+#define LAL_VECTOR_HPP
 
 #include <cstddef>
 #include <array>
@@ -82,7 +83,7 @@ public:
         {
             throw std::invalid_argument("Initializer list size does not match vector dimension.");
         }
-        std::copy(init.begin(), init.end(), data.begin());
+        std::move(init.begin(), init.end(), data.begin());
     }
 
     // Access operators with bounds checking
@@ -248,3 +249,5 @@ using VecXd = Vec<double, Dim>;
 using Vec2d = Vec<double, 2>;
 using Vec3d = Vec<double, 3>;
 using Vec4d = Vec<double, 4>;
+
+#endif // LAL_VECTOR_HPP

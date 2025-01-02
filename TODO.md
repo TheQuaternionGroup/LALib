@@ -11,12 +11,12 @@
 - [ ] Determinant
 
 #### Vector Operations
-- [ ] Addition
-- [ ] Subtraction
-- [ ] Multiplication
-- [ ] Division
-- [ ] Dot Product
-- [ ] Cross Product
+- [ x ] Addition
+- [ x ] Subtraction
+- [ x ] Multiplication
+- [ x ] Division
+- [ x ] Dot Product
+- [ x ] Cross Product
 
 #### Matrix Transformations
 - [ ] Transpose
